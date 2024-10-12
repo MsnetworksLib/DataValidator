@@ -1,0 +1,26 @@
+{
+  "name": "data-validator",
+  "version": "1.0.0",
+  "description": "A lightweight library for validating user input data.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "validation",
+    "data",
+    "user-input",
+    "validator"
+  ],
+  "author": "MsnetworksLibs",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^29.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MsnetworksLibs/datavalidator.git"
+  },
+  "homepage": "https://github.com/MsnetworksLib/datavalidator#readme"
+}
